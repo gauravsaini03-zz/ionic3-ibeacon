@@ -5,8 +5,6 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { IBeacon } from '@ionic-native/ibeacon';
 import { Diagnostic } from '@ionic-native/diagnostic';
 
-// import { TabsPage } from '../pages/tabs/tabs';
-
 declare var cordova: any;
 
 @Component({

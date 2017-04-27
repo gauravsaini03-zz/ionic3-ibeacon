@@ -13,4 +13,4 @@ import { HomePage } from './home';
     HomePage
   ]
 })
-export class AddFoodPageModule {}
+export class HomePageModule {}

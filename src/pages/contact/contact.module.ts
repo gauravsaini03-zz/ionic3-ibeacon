@@ -13,4 +13,4 @@ import { ContactPage } from './contact';
     ContactPage
   ]
 })
-export class AddFoodPageModule {}
+export class ContactPageModule {}

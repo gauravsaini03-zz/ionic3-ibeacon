@@ -13,4 +13,4 @@ import { AboutPage } from './about';
     AboutPage
   ]
 })
-export class AddFoodPageModule {}
+export class AboutPageModule {}
